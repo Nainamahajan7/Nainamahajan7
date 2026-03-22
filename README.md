@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naina Mahajan</h1>
-<h3 align="center">📊 Aspiring Data Analyst | 💻 Python Developer | 🚧 Civil Engineering Student</h3>
+<h1 align="center">Hola👋 Konichiwa, I'm Naina Mahajan</h1>
+<h3 align="center">📊 Aspiring Data Analyst | 💻 Python Developer | 🙅 Civil Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Python+%2B+Tableau+Enthusiast;Building+Real-World+Solutions" />
@@ -100,5 +100,5 @@
 ---
 
 <p align="center">
-  ⭐ Keep Building. Keep Learning. ⭐
+  Adios 🦭
 </p>
